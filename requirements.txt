@@ -1,3 +1,2 @@
-echo "streamlit`nboto3" > requirements.txt
 streamlit
 boto3
